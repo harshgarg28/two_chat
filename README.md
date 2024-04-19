@@ -43,6 +43,9 @@ Ask me anything: How does the universe work?
 ```
 [Response from the chatbot]
 
+![screenshot](Screenshot.png)
+
+
 ## Troubleshooting
 - If you encounter any issues or errors, please make sure:
   - Your Google API key is valid and has access to the GenerativeAI service.

@@ -1,4 +1,4 @@
-# GenerativeAI Chatbot
+# Script for LLM
 
 ## Overview
 This is a chatbot script that interacts with the GenerativeAI API from Google. The chatbot uses the Gemini Pro model to generate responses based on user input.
